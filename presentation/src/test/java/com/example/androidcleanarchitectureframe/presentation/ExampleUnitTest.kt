@@ -1,4 +1,4 @@
-package com.example.androidcleanarchitectureframe
+package com.example.androidcleanarchitectureframe.presentation
 
 import org.junit.Test
 
